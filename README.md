@@ -18,11 +18,11 @@ Slouží pro práci v hodinách pro jednotlivé skupiny dle rozvrhu 2F1sk, 2F2sk
 
 Pokud chceme kurzívu využijeme před textem a najeho konci *
 
-* kurzíva *
+*kurzíva*
 
 Pokud chceme zvýrazněný text využijeme před textem a na jeho konci **
 
-** tučný **
+**tučný**
 
 Často určitě využijete i odkazy na stránky, materiály atd.
 

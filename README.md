@@ -16,7 +16,7 @@ Slouží pro práci v hodinách pro jednotlivé skupiny dle rozvrhu 2F1sk, 2F2sk
 ## Nadpis 2
 ### Nadpis 3 atd.
 
-Pokud chceme kurzívu využijeme před textem a najeho konci *
+Pokud chceme kurzívu využijeme před textem a na jeho konci *
 
 *kurzíva*
 
